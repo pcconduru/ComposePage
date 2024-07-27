@@ -7,11 +7,15 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable bg_compose_background
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string t1_compose_page
+string t2_compose_page
+string title_compose_page
 style Theme.ComposePage
 xml backup_rules
 xml data_extraction_rules

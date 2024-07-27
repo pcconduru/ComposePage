@@ -53,6 +53,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable bg_compose_background
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -254,8 +255,11 @@ string range_start
 string selected
 string status_bar_notification_info_overflow
 string switch_role
+string t1_compose_page
+string t2_compose_page
 string tab
 string template_percent
+string title_compose_page
 string tooltip_description
 string tooltip_label
 style DialogWindowTheme
